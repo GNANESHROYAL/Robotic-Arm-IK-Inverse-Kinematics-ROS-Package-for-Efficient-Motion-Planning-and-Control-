@@ -182,3 +182,25 @@ This will terminate the node as it is publishing to the `joint_states` topic.
 - [ROS Wiki: rosnode](http://wiki.ros.org/rosnode)
 - [ROS Wiki: rosrun](http://wiki.ros.org/rosrun)
 - [ROS Wiki: RViz](http://wiki.ros.org/rviz)
+
+## Tags
+
+`ROS`
+`Robotics`
+`Inverse Kinematics`
+`Manipulator`
+`Kinematics`
+`ROS Package`
+`URDF`
+`Robot Arm`
+`Motion Planning`
+`Robot Control`
+`Python`
+`ROS Nodes`
+`ROS Launch`
+`Robot Simulation`
+`Rviz`
+`ROS Visualization`
+`Robotic Arm`
+`ROS Development`
+`Open Source`
