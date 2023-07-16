@@ -1,4 +1,4 @@
-# ROS-Inverse_kinematics
+# ROS-IK-Solver: Robotic Arm Inverse Kinematics Solver for ROS
 
 ## Introduction
 
